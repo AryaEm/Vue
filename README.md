@@ -1,4 +1,4 @@
-# ajarin_arya
+# Belajar kang
 
 ## Project setup
 ```
